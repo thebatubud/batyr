@@ -1,1 +1,1 @@
-# batyr
+print('hello world')
